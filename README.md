@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">I'm Zainab <br><br>- 🔭A lifelong learner <br>- 📚 I'm currently learning Python, ML, Data Science and Digital Forensics</p>
+<p align="left"> 🔭A lifelong learner <br>- 📚 I'm currently learning Python, ML, Data Science and Digital Forensics</p>
 
 ###
 
